@@ -1,0 +1,15 @@
+{
+  "name": "cypress-automation-framework",
+  "version": "1.0.0",
+  "description": "cypress automation framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Kurilov",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.7.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
